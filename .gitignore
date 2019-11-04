@@ -1,0 +1,13 @@
+
+*~
+log
+*.tar
+*.tar.gz
+*.tgz
+*.pyc
+.DS_Store
+/.idea/
+/.settings/
+/target/
+/out/
+.classpath
